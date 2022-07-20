@@ -260,7 +260,7 @@ span{
 .social-icons{
     margin-bottom: 20px;
 }
-
+}
 /* for tablet*/
 @media screen and (min-width:577px) and (max-width:992px){
  .banner-title{
@@ -303,5 +303,4 @@ span{
         display: none;
    }
   
-}
 }
