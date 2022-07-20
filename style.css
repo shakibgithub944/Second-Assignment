@@ -247,10 +247,7 @@ flex-direction: column;
     display: none;
 }
 /* footer asrea*/
-.footer-area h2{
-    margin-left: 115px;
-}
-}
+
 span{
     display: flex;
     flex-direction: column;
@@ -304,5 +301,4 @@ span{
    }
   
 }
-
-
+}
