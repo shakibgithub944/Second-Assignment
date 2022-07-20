@@ -158,6 +158,9 @@ hr{
     width: 80%;
     opacity: .2;
 }
+span{
+    display: flex;
+}
 span h3{
     margin-top: 50px;
     margin-left: 100px;
@@ -250,7 +253,7 @@ flex-direction: column;
 
 span{
     display: flex;
-
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
